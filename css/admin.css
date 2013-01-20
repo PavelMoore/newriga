@@ -1,0 +1,80 @@
+.section {
+	float: left; 
+	margin-right: 30px;
+	margin-bottom: 50px;
+}
+.sectionhead {
+	height: 50px; 
+	width: 300px; 
+	background: #33f; 
+	border-top-left-radius: 
+	25px; border-bottom: 
+	solid #33e 1px;
+}
+
+.sectionbody {
+	font-size: 20pt; 
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+	color: #333; 
+	padding:20px; 
+	padding-top: 0px; 
+	width: 260px; 
+	min-height: 210px; 
+	background: #ccc; 
+	border-top: solid #ddd 1px; 
+}
+
+.functions {
+	margin-left: 20px;
+}
+a {
+	text-decoration: none;
+	color: #33f;
+}
+span {
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+	color: #33f;  
+	font-weight: bolder;
+}
+
+table {
+	font-size: 16pt;
+}
+
+h1 {
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+	color: #666; 
+	font-size: 28pt
+}
+input[type = "submit"] {
+	border: solid  #33f 4px;
+	height: 40px;
+	font-size: 20pt; 
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+	color: #33f;
+	width: 200px
+	
+}
+input[type = "password"],  input[type = "text"]{
+	border: solid  #33f 4px;
+	
+	font-size: 20pt; 
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+	color: #33f;
+	margin-bottom: 15px;
+
+}
+select {
+	border: solid  #33f 4px;
+	font-size: 20pt; 
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+	color: #33f;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 400px;
+}
+textarea {
+	border: solid  #33f 4px;
+	font-size: 16pt; 
+	font-family: Calibri, Verdana, Arial, sans-serif; 
+}
