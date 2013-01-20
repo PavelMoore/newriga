@@ -70,7 +70,7 @@ a {
 	list-style:none;
 	padding:0;
 	margin:1px auto;
-	width:959px;
+	display: table;
 	overflow:hidden;
 	height:33px;
 	border:1px solid #ffffff;
@@ -79,7 +79,7 @@ a {
 }
 .menu-items li{
 	float:left;
-	height:29px;
+	height:17px;
 	min-width:57px;
 	padding:8px 18px;
 	margin:0px auto;
